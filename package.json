@@ -1,0 +1,23 @@
+{
+  "name": "lines-intersection",
+  "version": "1.0.0",
+  "description": "Calculate intersection of two lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dy/lines-intersection.git"
+  },
+  "keywords": [
+    "line",
+    "line-intersect",
+    "intersection",
+    "line2d",
+    "line-intersection",
+    "segseg"
+  ],
+  "author": "Dmitry Yv <df.creative@gmail.com>",
+  "license": "MIT"
+}
